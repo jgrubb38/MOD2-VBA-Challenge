@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub StockData():
     
     'Loop through all worksheets
