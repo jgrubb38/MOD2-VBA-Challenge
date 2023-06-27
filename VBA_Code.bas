@@ -2,6 +2,7 @@ Sub StockData():
     
     'Loop through all worksheets
     For Each ws In Worksheets
+
         'Delcaring variables
         Dim WorksheetName As String
         Dim i As Double
